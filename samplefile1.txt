@@ -3,4 +3,8 @@ abcde
 qwert
 Test the git commands
 pull my changes to local
+<<<<<<< HEAD
 local to remote
+=======
+Adding line to verify jenkins build
+>>>>>>> f702b968b4a0ca9c11b3f03e5382743b41e953ec
